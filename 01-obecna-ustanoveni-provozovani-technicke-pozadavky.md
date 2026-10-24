@@ -122,6 +122,13 @@ Vodoprávní úřad – podle § 27 odst. 1 obecní úřad obce s rozšířenou 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 1127/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F7C01B905B4D718BC125848500186E5B?openDocument) — 27. 6. 2019, kat. A
+  > „Za újmu způsobenou únikem splaškové vody z kanalizace odpovídá provozovatel kanalizace (§ 2924 o. z.) bez ohledu na to, že mezi ním a poškozeným neexistoval závazkový právní vztah. Pro objektivní odpovědnost z provozní činnosti je bez významu, že nepříznivý vliv provozu na okolí byl vyvolán pochybením jiného subjektu pověřeného provozovatelem konkrétní technickou činností na kanalizačním řadu. Provozovatel se zprostí odpovědnosti (§ 2924 věta druhá o. z.), prokáže-li, že si při provozní činnosti počínal s opatrností, jaká odpovídá dosažené úrovni poznání v daném oboru i obecné zkušenosti (řádný a odborně způsobilý provozovatel)"
+- *NS* [20 Cdo 1785/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1415115351EC8A06C1257C2F002D971B?openDocument) — 30. 10. 2013, kat. A
+  > „Jestliže správní orgán (vodoprávní úřad) vydal rozhodnutí podle § 8 odst. 3 zákona č. 274/2001 Sb., o vodovodech a kanalizacích, ve znění účinném do 14. 3. 2006, jímž nahradil dohodu vlastníků provozně souvisejících částí kanalizace o úpravě jejich vzájemných vztahů, jde o exekuční titul, podle nějž lze exekuci nařídit, jen prokáže-li oprávněný, že svou vzájemnou povinnost vůči povinnému již splnil (§ 43 odst. 1 a 2 exekučního řádu)"
+
 #### Vodovod a kanalizace jako vodní díla (odst. 1 a 2)
 
 Vodovod je **provozně samostatný soubor** staveb a zařízení – vodovodních řadů a vodárenských objektů (jímání, odběr, úprava, akumulace vody). Kanalizace je obdobně provozně samostatný soubor stok, kanalizačních objektů, čistíren odpadních vod a staveb k předčištění. Zákon rozlišuje **jednotnou** kanalizaci (srážková voda se vtokem stává odpadní vodou) a **oddílnou** kanalizaci (samostatné odvádění odpadních a srážkových vod). Obě jsou **vodními díly**; poznámka č. 2 odkazuje na § 55 odst. 1 písm. c) vodního zákona, poznámka č. 3 na vymezení odpadních vod v § 38 vodního zákona. Status vodního díla určuje stavebněprávní a vodoprávní režim. Soukromoprávně platí, že vodovody a kanalizace jako liniové stavby nejsou součástí pozemku (§ 509 občanského zákoníku); mohou tedy mít jiného vlastníka než pozemky, v nichž jsou uloženy.
@@ -756,6 +763,11 @@ Provozovatel smí odstraňovat a oklešťovat stromoví a porosty ohrožující 
 > (17) Smlouva o odvádění odpadní vody odběrateli, nebo smlouva o odvádění a čištění odpadní vody odběrateli musí obsahovat alespoň předmět smlouvy, smluvní strany, vlastníka a provozovatele kanalizace, vlastníka přípojky a připojené stavby nebo pozemku s určením místa, počet trvale připojených osob, stanovení podmínek odvádění nebo odvádění a čištění (limity množství, způsob stanovení množství, limity znečištění), způsob stanovení ceny a jejího vyhlášení, fakturace záloh a způsob plateb, možnost změn a doba platnosti této smlouvy.
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 1785/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1415115351EC8A06C1257C2F002D971B?openDocument) — 30. 10. 2013, kat. A
+  > „Jestliže správní orgán (vodoprávní úřad) vydal rozhodnutí podle § 8 odst. 3 zákona č. 274/2001 Sb., o vodovodech a kanalizacích, ve znění účinném do 14. 3. 2006, jímž nahradil dohodu vlastníků provozně souvisejících částí kanalizace o úpravě jejich vzájemných vztahů, jde o exekuční titul, podle nějž lze exekuci nařídit, jen prokáže-li oprávněný, že svou vzájemnou povinnost vůči povinnému již splnil (§ 43 odst. 1 a 2 exekučního řádu)"
 
 #### Základní povinnost vlastníka a obnova (odst. 1)
 
